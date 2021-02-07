@@ -19,6 +19,7 @@ package com.test;
 			
 		}
 			public static void main(String args[]){
+				System.out.println("entering main section");
 				B  b = new B();
 				b.add();
 				
