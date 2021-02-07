@@ -6,6 +6,7 @@ package com.test;
 		int z=x+y;
 		System.out.println("Z VALUE IS "+z);
 		return z;
+//testing merge
 		
 	}
 }
