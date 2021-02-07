@@ -12,7 +12,7 @@ public class TreeSet1 {
 	Iterator itr=set1.iterator();
 	while(itr.hasNext()){
 		itr.next();
-		System.out.println(itr.next());
+		System.out.println("the value of itr:"+itr.next());
 	}
 	
 
